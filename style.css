@@ -1,3 +1,12 @@
+/* Card-like container for welcome and chart */
+.energy-card {
+    max-width: 700px;
+    margin: 2em auto;
+    background: rgba(255,255,255,0.85);
+    border-radius: 18px;
+    box-shadow: 0 2px 16px rgba(184,156,90,0.07);
+    padding: 2em 1em;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
